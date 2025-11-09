@@ -14,3 +14,7 @@ Hyperparameter Tuning: Uses GridSearchCV within the utils.py module to find the 
 Custom Logging & Exception Handling: Includes custom logger.py and exception.py modules for robust error tracing and system monitoring.
 
 Web Application: Deployed using Flask to allow users to input features and get real-time math score predictions.
+
+Run:
+-python src/components/data_ingestion.py
+-python app.py
